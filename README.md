@@ -21,23 +21,23 @@ Soy una persona con gran energía y enfoque, que sabe organizar y gestionar de m
   Universidad Nacional de San Juan | 2021 - 2022 | Promedio: 8.38/10
 - **Técnico en Construcciones**  
   Escuela Industrial D.F. Sarmiento | 2014 - 2020 | Promedio: 9.13/10  
-  - 🏅 Cuerpo de Bandera Nacional  
-  - 📚 Participación en Olimpiadas de Matemáticas, Jornadas de Accesibilidad, Club del Constructor y Modelos ONU7  
-  - 🤝 Participación en Campaña Solidaria "Resistiendo el Olvido" (Entrega de agua y artículos de primera necesidad a las Lagunas de Guanacache)
+  - Cuerpo de Bandera Nacional  
+  - Participación en Olimpiadas de Matemáticas, Jornadas de Accesibilidad, Club del Constructor y Modelos ONU7  
+  - Participación en Campaña Solidaria "Resistiendo el Olvido" (Entrega de agua y artículos de primera necesidad a las Lagunas de Guanacache)
 - **Corte y Confección**  
   ETCL Sabino Pignatari | 2020 - 2023 | Promedio: 9.83/10  
-  - 🧵 Pasantía en Campamento S.A. (Ansilta) en diciembre 2022
+  - Pasantía en Campamento S.A. (Ansilta) en diciembre 2022
 - **Escuela Primaria Antonio Torres**  
   2008 - 2013  
-  - 🏅 Cuerpo de Bandera Nacional
+  -  Cuerpo de Bandera Nacional
 
 ---
 
 ## 💼 Experiencia Laboral  
 - **Emprendimientos Propios**  
-  - 📱 Manejo de redes sociales y estrategias de marketing digital.  
-  - 📞 Atención al cliente, ventas y administración de recursos.  
-  - ✂️ Gestión de un negocio de accesorios y de costura y confección de productos personalizados.
+  - Manejo de redes sociales y estrategias de marketing digital.  
+  - Atención al cliente, ventas y administración de recursos.  
+  - Gestión de un negocio de accesorios y de costura y confección de productos personalizados.
 
 ---
 
@@ -58,4 +58,4 @@ Me interesa el ámbito administrativo, donde puedo aplicar mis habilidades anal�
 - **Gestión de proyectos y organización:** Trello, Notion  
 - **ARCA:** manejo básico de facturación de la plataforma AFIP  
 - **Diseño y Edición:** AutoCAD, SketchUp, Illustrator, Canva  
-# CV
+
